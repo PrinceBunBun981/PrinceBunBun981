@@ -41,8 +41,9 @@
   <li>Going outside sometimes just isn't a thing I'd enjoy, depends on the setting.</li>
 </ul>
 
-### My GitHub Stats
-<p><img src="https://github-readme-stats.vercel.app/api?username=PrinceBunBun981&layout=compact&count_private=true&show_icons=true&include_all_commits=true&theme=discord_old_blurple&"></p>
+<!--### My GitHub Stats-->
+<br>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=PrinceBunBun981&layout=compact&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true"></p>
 
 <!--
 <p>
