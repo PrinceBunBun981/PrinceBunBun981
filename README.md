@@ -15,7 +15,7 @@
   I'm a complete geek, I enjoy coding and gaming. I also do a bit of writing in my free time. I love things to do with animals and have a few pets of my own.
 </p>
 
-### Things I Code With
+### Things I Use
 <p>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
@@ -41,31 +41,5 @@
   <li>Going outside sometimes just isn't a thing I'd enjoy, depends on the setting.</li>
 </ul>
 
-<!--### My GitHub Stats-->
 <br>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=PrinceBunBun981&layout=compact&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true"></p>
-
-<!--
-<p>
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f0db4f?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/-Java-f89820?style=flat-square&logo=java&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="NodeJS" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" />
-</p>
--->
-
-<!--
-**PrinceBunBun981/PrinceBunBun981** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
