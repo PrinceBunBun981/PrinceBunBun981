@@ -1,7 +1,6 @@
 ### <p align="center"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30"> <b>Hey there!</b></p>
 <p align="center">
   <img src="https://gpvc.arturio.dev/PrinceBunBun981" alt="Profile Views"> •  
-  <a href="https://twitter.com/intent/follow?screen_name=PrinceBunBun981&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/PrinceBunBun981?label=%40PrinceBunBun981&style=social"></a>  •
   <a href="https://PrinceBunBun981.com"><img src="https://img.shields.io/badge/-My%20Website-blue"></a>
 </p>
 
