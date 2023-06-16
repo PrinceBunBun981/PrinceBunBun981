@@ -1,8 +1,4 @@
 ### <p align="center"><b>Hey there!</b></p>
-<p align="center">
-  <img src="https://gpvc.arturio.dev/PrinceBunBun981" alt="Profile Views"> •  
-  <a href="https://PrinceBunBun981.com"><img src="https://img.shields.io/badge/-My%20Website-blue"></a>
-</p>
 
 ---
 
@@ -22,6 +18,3 @@
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 </p>
-
-<br>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=PrinceBunBun981&layout=compact&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true"></p>
